@@ -1,1 +1,1 @@
-aqa 
+print ("hello world")
