@@ -1,1 +1,2 @@
-print ("hello world")
+nama = "john"
+print(nama)
