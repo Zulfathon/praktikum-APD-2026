@@ -14,6 +14,7 @@ rata_rata = total_bayar / len(daftar_barang)
 bolean = nim < rata_rata
 
 print("Hasil Perhitungan Koperasi Desa Merah Putih")
+print()
 print("Harga Barang 1 :", barang_1)
 print("Harga Barang 2 :", barang_2)
 print("Harga Barang 3 :", barang_3)
